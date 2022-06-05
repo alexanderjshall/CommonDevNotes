@@ -1,0 +1,19 @@
+# Data Representation
+[toc]
+
+There are a number of common filetypes & syntaxes which are used to represent
+When data is transferred over a network, it can be transferred as a string which needs to be parsed into data the programming language can understand
+- Parsing: turning string data into a data structure that can be read by a program
+- Stringifying: turning string data into a data structure.
+
+## JSON
+
+
+## YML / YAML
+
+
+## XML
+
+
+## CSV
+
